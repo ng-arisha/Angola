@@ -10,8 +10,8 @@ const poppins = Poppins({
 
 
 export const metadata: Metadata = {
-  title: "Brian Mulati",
-  description: "Brian Mulati - Senior Software Engineer",
+  title: "Kenny Andola",
+  description: "Kenny Andola - Senior Coach, Sports and Tech Enthusiast",
 };
 
 export default function RootLayout({
